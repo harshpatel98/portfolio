@@ -54,6 +54,6 @@ export const homeObjThree = {
     dark: false,
     primary: false,
     darkText: true,
-    link: 'https:github.com/harshpatel98'
+    link: 'https://github.com/harshpatel98/portfolio'
 
 }

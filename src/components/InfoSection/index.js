@@ -1,7 +1,5 @@
 import React, {useState} from 'react'
-import { Button, Container } from '../ButtonElement'
-import { Modal } from '../Modal';
-import { GlobalStyle } from '../globalStyles';
+import { Button } from '../ButtonElement'
 import {
     InfoContainer,
     InfoWrapper,
