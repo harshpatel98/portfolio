@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 import { Button } from '../ButtonElement'
 import {
     InfoContainer,
@@ -35,15 +35,8 @@ const InfoSection = ({
 }) => {
 
     
-    const[showModal, setShowModal] = useState(false)
-
-    const openModal = () => {
-        setShowModal(prev => !prev)
-
-    }
-
     const handleClick = () => {
-        if (id == 'about'){
+        if (id === 'about'){
             window.open(link1);
 
         } else{
