@@ -7,13 +7,13 @@ export const homeObjOne = {
     topLine: 'About Me',
     headline: 'Hello! My name is Harsh Patel',
     description: 'I graduated from Brock University in 2021 with a Bachelor of Science with a focus in Computer Science with a Minor in Business. I am fascinated by technology and creating solutions using it. As a developer, I have experience working in numerous projects. Which includes, creating mobile, computer and web applications for companies, creating databases using various languages and multiplayer interactive games using artificial intelligence.  Feel free to reach out to me any time.',
-    buttonLabel: 'Contact Me',
+    buttonLabel: 'Download Resume',
     imgStart: true,
     img: require('../../images/webDev.svg').default,    alt: 'about me',
     dark: true,
     primary: true,
     darkText: false,
-    link1: 'https://harshpatel98.github.io/harshpatel/'
+    link1: 'https://drive.google.com/file/d/1bq8v_vO3-rPD9gyK8UUgpQY25PjoqiAw/view?usp=sharing'
 
 }
 
