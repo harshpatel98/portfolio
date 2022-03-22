@@ -6,7 +6,7 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine: 'About Me',
     headline: 'Hello! My name is Harsh Patel',
-    description: 'I graduated from Brock University in 2021 with a Bachelor of Science with a focus in Computer Science with a Minor in Business. I am fascinated by technology and creating solutions using it. As a developer, I have experience working in numerous projects. Which includes, creating mobile, computer and web applications for companies, creating databases using various languages and multiplayer interactive games using artificial intelligence.  Feel free to reach out to me any time.',
+    description: 'I graduated from Brock University in 2021 with a Bachelor of Science with a focus in Computer Science with a Minor in Business. Fascinated by technology, I enjoy creating software solutions to real world problems. I have experience creating multiple web, mobile and computer applications. Designing databases and developing AI algorithms for interactive multiplayer games. A quick learner, who loves new challenges I am currently seeking a position as a Web Developer or Software Developer.',
     buttonLabel: 'Download Resume',
     imgStart: true,
     img: require('../../images/webDev.svg').default,    alt: 'about me',
@@ -34,9 +34,7 @@ export const homeObjTwo = {
     dark: false,
     primary: false,
     darkText: true,
-    link: 'https:github.com/harshpatel98',
-
-
+    link: 'https://github.com/harshpatel98'
 }
 
 export const homeObjThree = {
@@ -45,9 +43,9 @@ export const homeObjThree = {
     lightText: false,
     lightTextDesc: false,
     topLine: "How it's made",
-    headline: 'How was this website created',
+    headline: 'Logistics behind this website',
     description:
-    'I created this website using React JS. You can see the full source code and explanations on the various libraries I used on my github.',
+    'For its entirety, this website was developed using React JS. If you wish to view the source code, as well as comments and explanations regarding the numerous liberaries used, feel free to take a look at my GitHub.',
     buttonLabel: 'Source Code',
     imgStart: true,
     img: require('../../images/github.svg').default,    alt: 'Car',

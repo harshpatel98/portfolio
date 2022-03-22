@@ -31,7 +31,7 @@ const Projects = () => {
             <ProjectElements.ProjectCard onClick={handleClick3}>
                 <ProjectElements.ProjectIcon src={myWebsite}/>
                 <ProjectElements.ProjectH2>Personal Website</ProjectElements.ProjectH2>
-                <ProjectElements.ProjectP>This website was created using HTML, CSS and JS and it showcases my Resume in an attravtive manner.</ProjectElements.ProjectP>
+                <ProjectElements.ProjectP>This website was created using HTML, CSS and JS and it showcases my Resume in an attractive manner.</ProjectElements.ProjectP>
             </ProjectElements.ProjectCard>
         </ProjectElements.ProjectWrapper> 
     </ProjectElements.ProjectContainer>
